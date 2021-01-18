@@ -8,5 +8,5 @@ Block youtube ad by loading this extension.
 4. Turn on developer mode by cicking on left side devloper mode option.
 5. load your extension by clicking on load unpacked.
 6. Now Goto your folder directory  something like this >> D:\youtube-ad-blocker and click on select folder button.
-7. Now you'll found this extension in your chrome extension list.
+7. Now you'll find this extension in your chrome extension list.
 8. Now it's time to fun... open youtube on chrome and enjoy ad free videos.
