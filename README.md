@@ -1,7 +1,7 @@
 # Youtube ad blocker
-Block any add by load this extension.
+Block youtube ad by loading this extension.
 
-# How to setup Youtube ad blocker in your system.
+## How to setup Youtube ad blocker in your system.
 1. Download/clone the project(chrome extesion).
 2. Extract the .zip in your system at any path.
 3. Open the chrome and serach on browser chrome://extensions/
